@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="120" viewBox="0 0 200 120">
+  <rect width="200" height="120" fill="#4f46e5" />
+  <circle cx="60" cy="60" r="28" fill="#ffffff" />
+  <rect x="95" y="34" width="70" height="52" rx="10" fill="#ffffff" />
+  <text x="100" y="68" font-size="16" font-family="Arial" fill="#4f46e5">Headphones</text>
+</svg>
